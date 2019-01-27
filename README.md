@@ -22,11 +22,11 @@ This is a project designed for students to practice improving their basic HTML a
 
 # How it was made
 
-Created with a combination of HMTL and CSS
+Created with a combination of HMTL, CSS, and JavaScript
 
 # Coding Style
 
-Standard HTML and CSS
+Standard HTML, CSS, and JavaScript
 
 # Challenges
 
@@ -35,7 +35,7 @@ Also I had trouble getting the background photo to cover the entire section in o
 
 # Extensions
 
-Created a function to change the name of SOME DOGS, with whatever is put into the name input box.
+Created a function with JavaScript to change the name of SOME DOGS to whatever is put into the name input box.
 
 function changeName(e) {
   e.preventDefault();
