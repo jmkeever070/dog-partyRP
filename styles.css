@@ -236,10 +236,13 @@ footer p {
   }
 }
 
-@media screen and (max-width: 384px) {
+@media screen and (max-width: 405px) {
+
+  form {
+    text-align: left;
+  }
 
   .namethisdog {
-    height: 10%;
     width: 100%;
   }
 
