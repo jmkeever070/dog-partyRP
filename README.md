@@ -45,3 +45,11 @@ function changeName(e) {
 
 # Screenshots
 
+Turing Comp
+![image](https://user-images.githubusercontent.com/43790434/51804806-7a717880-2222-11e9-8507-cf92c18a5614.png)
+
+My page
+
+
+My page with javascript
+
