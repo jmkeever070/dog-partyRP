@@ -54,3 +54,6 @@ My page
 My page with javascript
 ![image](https://user-images.githubusercontent.com/43790434/51804847-c6242200-2222-11e9-98f6-63cf74cc406e.png)
 
+ # UPDATE
+ 
+ I made a commit with changes to the CSS, however I mislabeled the commit message. It says "Update html" but it actually is updated CSS.
