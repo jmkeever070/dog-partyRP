@@ -49,7 +49,8 @@ Turing Comp
 ![image](https://user-images.githubusercontent.com/43790434/51804806-7a717880-2222-11e9-8507-cf92c18a5614.png)
 
 My page
-
+![image](https://user-images.githubusercontent.com/43790434/51804836-aee53480-2222-11e9-9ae9-fdb399a4b6a0.png)
 
 My page with javascript
+![image](https://user-images.githubusercontent.com/43790434/51804847-c6242200-2222-11e9-98f6-63cf74cc406e.png)
 
